@@ -104,6 +104,7 @@ img {
   justify-content: space-around;
   padding-bottom: 5%;
   padding-top: 2%;
+  
 }
 .footer_list {
     display: flex;
@@ -122,10 +123,10 @@ span {
 
 /* registration */
 .b_color {
-    background: linear-gradient(
+  background: linear-gradient(
     to bottom,
-    rgb(49, 48, 48) 0%,
-    rgb(202, 191, 191) 100%
+    rgb(236, 228, 228) 0%,
+    rgb(228, 217, 219) 100%
   );
     
 }
@@ -135,8 +136,8 @@ span {
     margin:0 auto;
     background: linear-gradient(
     to bottom,
-    rgb(49, 48, 48) 0%,
-    rgb(202, 191, 191) 100%
+    rgb(236, 228, 228) 0%,
+    rgb(228, 217, 219) 100%
   );
     margin-top: 7%;
 }
